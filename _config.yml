@@ -1,0 +1,14 @@
+layout_spectrum: 0.8725410012993962
+typography_spectrum: 0.7746178235393018
+color:
+  brandStrength: 0.5021026930771768
+  lightness: 0.9040038196835667
+  saturation: 0.10847349953837693
+  rhythmicContrast: 0.7730069500394166
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: onewith
