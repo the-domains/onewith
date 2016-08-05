@@ -1,14 +1,14 @@
 layout_spectrum: 0.8725410012993962
-typography_spectrum: 0.7746178235393018
+typography_spectrum: 0.21022745757363737
 color:
-  brandStrength: 0.5021026930771768
-  lightness: 0.9040038196835667
-  saturation: 0.10847349953837693
-  rhythmicContrast: 0.7730069500394166
+  brandStrength: 0.07967160851694643
+  lightness: 0.4692562350537628
+  saturation: 0.663248976226896
+  rhythmicContrast: 0.31970809563063085
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#63A69F'
+    - '#F2E1AC'
+    - '#F2836B'
+    - '#F2594B'
+    - '#CD2C24'
 name: onewith
